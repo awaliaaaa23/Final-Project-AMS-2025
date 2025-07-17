@@ -2319,7 +2319,6 @@ naikaq : naik
 kerj : kerja
 jkartasmua : jakarta semua
 brsemoga : semoga
-apa : bapak
 kemenongmenong : orang jawa tengah
 wong jowo : orang jawa
 amp : sementara
